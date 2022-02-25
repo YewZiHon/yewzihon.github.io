@@ -1,4 +1,4 @@
-Sitemap: https://yewzihon.github.io/sitemap.xml
+Sitemap: https://yewzihon.github.io/sitemap.txt
 
 User-agent: *
 Disallow:
